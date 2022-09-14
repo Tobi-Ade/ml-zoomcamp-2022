@@ -1,1 +1,0 @@
-Assignments from DataTalksClub ml-zoomcamp course
